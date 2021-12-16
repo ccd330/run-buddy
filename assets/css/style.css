@@ -29,8 +29,12 @@ header a {
 header nav {
   margin: 7px 0;
 }
-header nav ul li {
-  display: inline;
+header nav ul {
+  display: flex;
+  flex-wrap: wrap;
+  justify-content: space-between;
+  align-items: center;
+  list-style: none;
 }
 header nav ul li a {
   margin: 0 30px;
@@ -38,8 +42,9 @@ header nav ul li a {
   font-size: 22px;
 }
 h3 {
-  margin: 0;
-  font-size: 50px;
+  margin: 0 30px;
+  font-weight: lighter;
+  font-size: 1.55vw;
 }
 footer {
   background: #fce138;
