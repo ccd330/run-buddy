@@ -32,7 +32,7 @@ header nav ul li {
   display: inline;
 }
 header nav ul li a {
-  margin: 0 30px;
+  padding: 10px 15px;
   font-weight: lighter;
   font-size: 22px;
 }
@@ -69,6 +69,10 @@ section {
   background-size: cover;
   background-position: center;
   position: relative;
+  align-items: flex-start;
+}
+.hero-cta {
+  line-height: 1.2;
 }
 .hero-form {
   background-color: #fce138;
@@ -123,7 +127,7 @@ section {
 }
 
 .section-title {
-  font-size: 55px;
+  font-size: 48px;
   color: #024e76;
   margin-bottom: 35px;
   padding: 0 100px 20px 100px;
@@ -226,4 +230,17 @@ section {
 }
 .contact-info a {
   color: #fce138;
+}
+/* MEDIA QUERY FOR SMALLER DESKTOP SCREENS AND SMALLER */
+@media screen and (max-width: 980px) {
+  
+  }
+}
+/* MEDIA QUERY FOR TABLETS AND SMALLER */
+@media screen and (max-width: 768px) {
+  
+}
+/* MEDIA QUERY FOR MOBLE PHONES AND SMALLER */
+@media screen and (max-width: 575px) {
+  
 }
