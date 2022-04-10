@@ -1,4 +1,4 @@
-# Run-Buddy
+# Run-Buddy Mock Landing Page
 ## License
   ![licenseBadge](https://img.shields.io/badge/License-MIT-blue.svg)
   MIT
@@ -16,7 +16,7 @@
   ## Description
   This project provides the frontend functionality of a fictional fitness site. It has been configured with HTML and CSS.
   
-  <img src="https://github.com/ccd330/ecommerce-backend/blob/main/Develop/demo.png" />
+  <img src="https://github.com/ccd330/run-buddy/blob/main/assets/images/demo.png" />
 
   ## Installation Instructions
   N/A
