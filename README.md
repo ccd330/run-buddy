@@ -1,3 +1,4 @@
+# Run-Buddy
 ## License
   ![licenseBadge](https://img.shields.io/badge/License-MIT-blue.svg)
   MIT
@@ -13,16 +14,15 @@
   * [Questions](#questions)
 
   ## Description
-  This project provides the backend functionality of an e-commerce site. It has been configured with an Express.js API, Sequelize, and MySQL.
+  This project provides the frontend functionality of a fictional fitness site. It has been configured with HTML and CSS.
   
   <img src="https://github.com/ccd330/ecommerce-backend/blob/main/Develop/demo.png" />
 
   ## Installation Instructions
-  Download file package and install dependencies: MySQL2, Sequelize,Express, and dotenv.
+  N/A
 
   ## Usage
-  Please see a walkthrough video of the application here: 
-https://drive.google.com/file/d/1ZpDek6EWYbxz6h0VyUE96-2CZ2f35x4B/view?usp=sharing
+  Please see the full website here: https://ccd330.github.io/run-buddy/
 
   ## Contributions
   This project was completed by Claudia (ccd330).
